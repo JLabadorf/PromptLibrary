@@ -4,7 +4,7 @@ Welcome to my Prompt Library, a growing collection of thoughtfully crafted promp
 
 ## The Mission
 
-Over the next 100 days, I am committing to writing and sharing one prompt each day. These prompts will cover a wide range of use cases, from technical applications like SQL generation to creative writing and problem-solving. My goal is to build a resource that others can use, adapt, and expand upon in their own projects.
+Over the next 100 days (starting 12 December, 2024), I am committing to writing and sharing one prompt each day. These prompts will cover a wide range of use cases, from technical applications like SQL generation to creative writing and problem-solving. My goal is to build a resource that others can use, adapt, and expand upon in their own projects.
 
 ## Connect With Me
 
